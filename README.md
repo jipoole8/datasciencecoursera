@@ -1,1 +1,5 @@
-# datasciencecourseraA line from local comp
+# datasciencecoursera
+
+# A line from local comp
+
+# Testing RStudio
